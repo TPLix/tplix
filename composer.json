@@ -1,10 +1,11 @@
 {
-  "name": "tplix/src",
-  "description": "Flexible and Fast PHP Template Engine",
-  "autoload": {
-    "psr-4": {
-      "Tplix\\": ""
-    }
-  },
-  "require": {}
+    "name": "tplix/tplix",
+    "description": "Flexible and Fast PHP Template Engine",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tplix\\": "src/"
+        }
+    },
+    "require": {}
 }
