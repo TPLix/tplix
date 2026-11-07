@@ -1,0 +1,10 @@
+{
+  "name": "tplix/src",
+  "description": "Flexible and Fast PHP Template Engine",
+  "autoload": {
+    "psr-4": {
+      "Tplix\\": ""
+    }
+  },
+  "require": {}
+}
